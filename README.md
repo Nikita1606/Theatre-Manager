@@ -1,0 +1,2 @@
+# Theatre-Manager
+A project in C called "Theatre Manager".In this project I have included all the necessary functions that are required for managing the daily shows and while booking a movie ticket at the counter of the cinema hall. It allows them to add shows that has to be screened according to their release dates and display the available shows. It also removes the movies from the list that will no longer be screened. Further the booking of tickets can be done according to the user's choice and the availability of the seats. Also the customers are able order beverages.
